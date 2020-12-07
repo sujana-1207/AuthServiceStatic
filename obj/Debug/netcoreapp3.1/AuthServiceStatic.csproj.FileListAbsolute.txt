@@ -8,3 +8,14 @@ C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\AuthServi
 C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\AuthServiceStatic.RazorTargetAssemblyInfo.cache
 C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\staticwebassets\AuthServiceStatic.StaticWebAssets.Manifest.cache
 C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\staticwebassets\AuthServiceStatic.StaticWebAssets.xml
+C:\Users\Lenovo\source\repos\AuthServiceStatic\bin\Debug\netcoreapp3.1\AuthService.yaml
+C:\Users\Lenovo\source\repos\AuthServiceStatic\bin\Debug\netcoreapp3.1\AuthServiceStatic.deps.json
+C:\Users\Lenovo\source\repos\AuthServiceStatic\bin\Debug\netcoreapp3.1\AuthServiceStatic.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AuthServiceStatic\bin\Debug\netcoreapp3.1\AuthServiceStatic.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AuthServiceStatic\bin\Debug\netcoreapp3.1\AuthServiceStatic.dll
+C:\Users\Lenovo\source\repos\AuthServiceStatic\bin\Debug\netcoreapp3.1\AuthServiceStatic.pdb
+C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\AuthServiceStatic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\AuthServiceStatic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\AuthServiceStatic.dll
+C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\AuthServiceStatic.pdb
+C:\Users\Lenovo\source\repos\AuthServiceStatic\obj\Debug\netcoreapp3.1\AuthServiceStatic.genruntimeconfig.cache
