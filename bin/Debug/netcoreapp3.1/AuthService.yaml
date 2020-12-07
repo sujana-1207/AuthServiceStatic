@@ -13,8 +13,8 @@ spec:
         app: AuthServiceStatic
     spec:
       containers:
-      - name: authservicerepos
-        image: samplecr1.azurecr.io/authservicerepos:latest
+      - name: authservicesrepos
+        image: samplecr1.azurecr.io/authservicesrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
